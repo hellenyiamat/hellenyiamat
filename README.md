@@ -1,6 +1,6 @@
 Hellen Yiamat
 Data Analyst | Economics & Statistics Graduate
-Nairobi, Kenya • hellenyiamat7@gmail.com • 0795511301 [https://www.linkedin.com/in/hellen-yiamat-210981239?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+Nairobi, Kenya • hellenyiamat7@gmail.com • 0795511301 [https://www.linkedin.com/in/hellen-yiamat-210981239?utm_source=share_via&utm_content=profile&utm_medium=member_android][https://github.com/hellenyiamat/hellenyiamat]
 Professional Overview
 Detail-oriented and results-driven Data Analyst with a strong academic foundation in Economics and Statistics. Proven track record in data collection, cleaning, exploratory analysis, KPI tracking and interactive dashboard creation using Advanced Excel, SPSS and Stata. Experienced in synthesizing raw, multi-source datasets into actionable business intelligence to optimize performance reporting and trend forecasting.
 Technical Skills & Tools
